@@ -32,7 +32,7 @@ txtName.place(x=180, y=150, height=28,width=200)
 txtAge = Entry() 
 txtAge.place(x=180, y=200, height=28,width=200)
 
-txtPost = Entry()w
+txtPost = Entry()
 txtPost.place(x=180, y=250, height=28,width=200)
 
 txtSalary = Entry()
