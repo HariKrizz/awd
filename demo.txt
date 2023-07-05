@@ -1,0 +1,9 @@
+Hello there, I'm a challenge
+Line added to the file
+
+
+
+
+viewText = tkinter.Text(height=10,width=180)
+viewText.place(x=500,y=200)
+
